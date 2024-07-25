@@ -7,7 +7,7 @@
 - Add new task
 - Delete old task
 - Mark completed task
-
+- Rewards Stages
 ## KEY TECHNOLOGY
 
 - React
